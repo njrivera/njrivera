@@ -10,7 +10,7 @@
   - [ ] Time and Callsign
   - [ ] Time Location and Callsign
 ### Reviews (2 per day)
-- [ ] 1st
+- [x] 1st
 - [ ] 2nd
 ### Issues
 - [ ] Issue for error in IE after creating a point
