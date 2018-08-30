@@ -12,3 +12,12 @@
 ### Reviews (2 per day)
 - [ ] 1st
 - [ ] 2nd
+### Issues
+- [ ] Issue for error in IE after creating a point
+- [ ] DVR fly-to
+### Backlog
+- [ ] Finish updating Admin panel for regression test spreadsheet
+- [ ] Update 3957 with Develop
+- [ ] Finish re-structure of 3957
+- [ ] Fix multiple server calls after bulk override changes
+- [ ] Fix server response action for bulk overrides from entity bbox grid
